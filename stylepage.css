@@ -8,6 +8,10 @@ body {
     background-color: black;
 }
 
+p, a, ul {
+  font-size: 1.3rem;
+}
+
 #myvideo{
     width: 100%;
     height: auto;
